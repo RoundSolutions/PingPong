@@ -10,7 +10,7 @@ See 'Wiki' for more information!
 The following link provides more content on the PingPong: http://www.roundsolutions.com/en/pingpong/
 
 ## Installation 
-plug, push and play!
+Plug, Push and Play!
 
 Quick Start Guide: http://www.roundsolutions.com/media/pdf/PCB-PP-HAUPT_QuickStart_PingPongV2.pdf
 Datasheet: http://www.roundsolutions.com/media/pdf/PCB-PP-HAUPT_EN%20Datasheet_PingPong_v1.5.pdf
