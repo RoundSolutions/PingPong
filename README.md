@@ -13,6 +13,7 @@ The following link provides more content on the PingPong: http://www.roundsoluti
 Plug, Push and Play!
 
 Quick Start Guide: http://www.roundsolutions.com/media/pdf/PCB-PP-HAUPT_QuickStart_PingPongV2.pdf
+
 Datasheet: http://www.roundsolutions.com/media/pdf/PCB-PP-HAUPT_EN%20Datasheet_PingPong_v1.5.pdf
 
 More downloads are available at our website: http://www.roundsolutions.com/en/products/internet-of-things-devices/all-iot-devices/10659/pingpong-iot-quick-start-board-4g/3g/2g
